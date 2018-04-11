@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this,"The seventh group.",Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(this,"CK修改",Toast.LENGTH_SHORT).show();
     }
 }
