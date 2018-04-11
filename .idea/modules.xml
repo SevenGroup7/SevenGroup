@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:\android\projects\sevengroup\Android05_4.0.iml" filepath="D:\android\projects\sevengroup\Android05_4.0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sevengroup.iml" filepath="$PROJECT_DIR$/sevengroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android05_4.0.iml" filepath="$PROJECT_DIR$/Android05_4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sevengroup.iml" filepath="$PROJECT_DIR$/.idea/sevengroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sg/sg.iml" filepath="$PROJECT_DIR$/sg/sg.iml" />
       <module fileurl="file://$PROJECT_DIR$/sg/sg.iml" filepath="$PROJECT_DIR$/sg/sg.iml" />
     </modules>
   </component>
