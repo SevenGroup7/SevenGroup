@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this,"The seventh group.",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"CK修改",Toast.LENGTH_SHORT).show();
+        Log.e("123","345");
+        Log.e("123123123","123123123");
+
     }
 }
