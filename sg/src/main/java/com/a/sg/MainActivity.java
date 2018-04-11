@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"The seventh group.",Toast.LENGTH_SHORT).show();
         Log.e("123","345");
         Log.e("123123123","123123123");
+        Log.e("大王派我来巡山","123123123");
+        Log.e("我把人间转一转","123123123");
 
     }
 }
